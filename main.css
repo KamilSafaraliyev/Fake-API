@@ -1,0 +1,14 @@
+        body {
+            color: red;
+            text-align: center;
+        }
+        
+        th {
+            border: 1px black solid;
+        }
+        
+        .albums {
+            margin: auto;
+            width: 60%;
+            padding: 10px;
+        }
